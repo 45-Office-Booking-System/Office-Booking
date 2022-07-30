@@ -21,3 +21,6 @@ Kantoor aims for the convenience of user when searching for a suitable working s
 
 ### Deployment to Backend
 Link : https://front-end-vue-office-booking-system-ku6sny2of-didiroyadi123.vercel.app
+
+### Testing Live Chat
+Link : https://gauri-golang-chat.herokuapp.com/
