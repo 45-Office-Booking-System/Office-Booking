@@ -18,3 +18,6 @@ Kantoor aims for the convenience of user when searching for a suitable working s
 * Using JWT as Token via [jwt-go package](https://github.com/dgrijalva/jwt-go)
 * Using [Docker](https://docs.docker.com/) for packaging applications into containers
 * Using [Digitalocean](https://www.digitalocean.com//) for Deployment
+
+### Deployment to Backend
+Link : https://front-end-vue-office-booking-system-ku6sny2of-didiroyadi123.vercel.app
